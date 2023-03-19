@@ -1,0 +1,8 @@
+@import "banner2.css";
+@import "cards2.css";
+@import "footer2.css";
+
+body{
+	margin: 0;
+	background-color: #d08c7487;
+}	
